@@ -20,7 +20,6 @@ A Flutter application that allows users to explore TV shows, discover trending c
 - **Bottom Navigation**: Easy navigation with a simple home button.
 
 ## Screenshots
-<img width="353" alt="image" src="https://github.com/user-attachments/assets/04139707-f946-46ba-a96f-6c6d442cfc6c">
 <img width="353" alt="image" src="https://github.com/user-attachments/assets/20fd0e51-6786-47ee-be8f-696f59433634">
 <img width="353" alt="image" src="https://github.com/user-attachments/assets/68431a39-04cb-414b-b8fe-ca03595a8d83">
 <img width="353" alt="image" src="https://github.com/user-attachments/assets/3779f2fc-e33d-4b50-8d08-215bfc814240">
